@@ -1,15 +1,15 @@
 body
 {
-    background:lightblue;
+    background:rgb(126, 96, 85);
 }
 .jumbotron
 {
     margin:0 auto;
-    background:lightgrey;
+    background:black;
 }
 .footer
 {
-    background:darkgrey;
+    background:rgb(47, 36, 34);
     height: 40px;
     text-align: center;
     width: 100%;
