@@ -1,0 +1,25 @@
+body
+{
+    background:lightblue;
+}
+.jumbotron
+{
+    margin:0 auto;
+    background:lightgrey;
+}
+.footer
+{
+    background:darkgrey;
+    height: 40px;
+    text-align: center;
+    width: 100%;
+    
+}
+.zdjecie
+{
+    text-align: center;
+}
+a
+{
+    color:rgb(78, 55, 52);
+}
